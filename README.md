@@ -42,7 +42,7 @@ The result would be:
     "code": "0",
     "data": [
         {
-            "transcrupt_results": [
+            "transcript_results": [
                 {
                     "content": "Some Sentences",
                     "speaker": "Somebody"

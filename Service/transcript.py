@@ -60,7 +60,7 @@ class transcriptModel:
         except Exception as e:
             raise InferenceException(description="Description:[%s]" % e)
         ret = []
-        ret.append({"transcrupt_results" : results})
+        ret.append({"transcript_results" : results})
         return ret
     
     
