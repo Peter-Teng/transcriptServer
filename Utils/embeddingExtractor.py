@@ -1,8 +1,6 @@
 import os
 import sys
 import pathlib
-import librosa
-import numpy as np
 import torch
 import torchaudio
 
